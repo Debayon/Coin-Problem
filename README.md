@@ -6,3 +6,5 @@ Given: An array of positive integers, you can choose as many elements as possibl
         
 Input: A sequence of positive integers.
 Output: Maximum sum.
+
+The Solution uses a method which is discovered by myself while experimenting.
